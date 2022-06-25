@@ -1,0 +1,44 @@
+# commit-stream
+
+[![Build Status](https://github.com/CodeWhiteWeb/commit-streak/workflows/ci/badge.svg?branch=main)](https://github.com/CodeWhiteWeb/commit-streak/actions)
+
+Automatically updates Head for commit streaks.
+
+> Auto Commit everyday.
+
+## Install
+
+```shell
+$ NPM Install Commit-Stream
+```
+
+## use
+
+```js
+const commit = reques ('Commit-Stream')
+
+const owner = 'codewhiteweb'
+const repo = 'Chatbot-discord-js'
+const auth = 'Fill in Person Token' here
+
+commit ({
+  Owner,
+  REPO,
+  Auth,
+  debug: true, // Open the debug mode
+})
+```
+
+## certification
+
+Parameter `auth` is used for certification.
+
+Enter the [Personal Access Tokens] (https://github.com/settings/tokens) page and click the "General New Token" button. This step will prompt you to enter the password and then enter the new page.
+
+Check REPO/PUBLIC_REPO and click the "Generate Token" button below.
+
+Note: The token will only be displayed once after generating, so you must copy the token and refresh the page. If you forget to copy the Token, you can rewrite the new token.
+
+## License
+
+[Commit-stream] (https://github.com/codewhiteWeb/commit-stream) is released under the mit license.
