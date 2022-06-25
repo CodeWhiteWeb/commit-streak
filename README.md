@@ -9,22 +9,22 @@ Automatically updates Head for commit streaks.
 ## Install
 
 ```shell
-$ NPM Install Commit-Streak
+npm i commit-streak
 ```
 
 ## use
 
 ```js
-const commit = reques ('Commit-Streak')
+const commit = reques ('commit-streak')
 
 const owner = 'codewhiteweb'
 const repo = 'Chatbot-discord-js'
-const auth = 'Fill in Person Token' here
+const auth = 'Fill in Person Token here'
 
 commit ({
-  Owner,
-  REPO,
-  Auth,
+  owner,
+  repo,
+  auth,
   debug: true, // Open the debug mode
 })
 ```
