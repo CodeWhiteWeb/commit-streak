@@ -41,4 +41,4 @@ Note: The token will only be displayed once after generating, so you must copy t
 
 ## License
 
-[Commit-stream] (https://github.com/codewhiteWeb/commit-stream) is released under the mit license.
+[Commit-stream](https://github.com/codewhiteWeb/commit-stream) is released under the mit license.
