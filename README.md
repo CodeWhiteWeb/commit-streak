@@ -1,4 +1,4 @@
-# commit-stream
+# commit-Streak
 
 [![Build Status](https://github.com/CodeWhiteWeb/commit-streak/workflows/ci/badge.svg?branch=main)](https://github.com/CodeWhiteWeb/commit-streak/actions)
 
@@ -9,13 +9,13 @@ Automatically updates Head for commit streaks.
 ## Install
 
 ```shell
-$ NPM Install Commit-Stream
+$ NPM Install Commit-Streak
 ```
 
 ## use
 
 ```js
-const commit = reques ('Commit-Stream')
+const commit = reques ('Commit-Streak')
 
 const owner = 'codewhiteweb'
 const repo = 'Chatbot-discord-js'
@@ -41,4 +41,4 @@ Note: The token will only be displayed once after generating, so you must copy t
 
 ## License
 
-[Commit-stream](https://github.com/codewhiteWeb/commit-stream) is released under the mit license.
+[Commit-streak](https://github.com/codewhiteWeb/commit-streak) is released under the mit license.
