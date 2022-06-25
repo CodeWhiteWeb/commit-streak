@@ -2,7 +2,9 @@
 
 [![Build Status](https://github.com/CodeWhiteWeb/commit-streak/workflows/ci/badge.svg?branch=main)](https://github.com/CodeWhiteWeb/commit-streak/actions)
 
-Automatically updates Head for commit streaks.
+Automatically updates Head for commit streaks. 
+
+GITHUB COMMIT STREAK HACK!!!
 
 > Auto Commit everyday.
 
