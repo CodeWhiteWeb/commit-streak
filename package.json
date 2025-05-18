@@ -1,9 +1,12 @@
 {
-  "name": "commit-streak",
+  "name": "@CodeWhiteWeb/commit-streak",
   "version": "1.0.0",
   "description": "a commit for the day",
   "license": "MIT",
-  "repository": "CodeWhiteWeb/commit-streak",
+  "repository": {
+   "type": "git",
+   "url": "git+https://github.com/CodeWhiteWeb/commit-streak.git"
+  },
   "author": "CodeWhiteWeb",
   "homepage": "https://github.com/CodeWhiteWeb/commit-streak",
   "bugs": "https://github.com/CodeWhiteWeb/commit-streak/issues",
@@ -25,6 +28,9 @@
   },
   "devDependencies": {
     "prettier": "^2.1.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "github",
